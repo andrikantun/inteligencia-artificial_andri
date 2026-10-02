@@ -9,8 +9,8 @@ sépalo/pétalo en largo y ancho). Ambas redes son un MLP con activación
 
 | Notebook | Cómo está implementada | Topología inicial |
 |---|---|---|
-| `01 Multilayer perceptron.ipynb` | A mano (NumPy): forward, error y backprop | \(4 \times 3 \times 3\) |
-| `02 Keras - multilayer perceptron - iris.ipynb` | Keras / TensorFlow (`Sequential`) | \(4 \times 3 \times 3\) |
+| `04 Multilayer perceptron.ipynb` | A mano (NumPy): forward, error y backprop | \(4 \times 3 \times 3\) |
+| `05 Keras - multilayer perceptron - iris.ipynb` | Keras / TensorFlow (`Sequential`) | \(4 \times 3 \times 3\) |
 
 En la notebook 01, \(4 \times 3 \times 3\) significa: **4** entradas, **una**
 capa oculta de **3** neuronas y **3** neuronas de salida (una por clase). En
